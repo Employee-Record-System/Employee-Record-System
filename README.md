@@ -25,6 +25,7 @@
 profile management, documentation, reporting, and exit workflows.
 </p>
 <p>It acts as a <b>centralized repository</b> ensuring secure, digitized, and structured HR operations.</p>
+<a href = "[https://www.figma.com/make/3NIhKxEK5FFKm74DI3Wcfk/Employee-Record-System-UI-Design?t=7WmHoIGvCVPdTrf4-1](https://www.figma.com/make/3NIhKxEK5FFKm74DI3Wcfk/Employee-Record-System-UI-Design?t=dnnQPWzmkEah9mqy-1)">FIGMA design</a>
 
 <hr>
 
