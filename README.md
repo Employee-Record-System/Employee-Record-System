@@ -28,7 +28,7 @@ profile management, documentation, reporting, and exit workflows.
 
 ## 🎨 Figma Design – Employee Record System UI
 
-👉 **View on Figma:** [Employee Record System UI Design](https://www.figma.com/make/3NIhKxEK5FFKm74DI3Wcfk/Employee-Record-System-UI-Design?t=dnnQPWzmkEah9mqy-1)
+👉 **View on Figma:** [Employee Record System UI Design](https://www.figma.com/make/3NIhKxEK5FFKm74DI3Wcfk/Employee-Record-System-UI-Design?t=n8KrhP6MiJ8vtDdy-1)
 
 
 <hr>
